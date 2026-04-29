@@ -1,0 +1,17 @@
+{
+  "name": "Finanzas Lil",
+  "short_name": "Finanzas Lil",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF7FA",
+  "theme_color": "#58094F",
+  "description": "App personal para finanzas freelance.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
