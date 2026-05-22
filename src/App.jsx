@@ -360,7 +360,7 @@ export default function App() {
         <DropdownCard
           title="📈 Libre"
           value={libre}
-          customBackground="linear-gradient(180deg,#0f5c7a 0%, #6ae2ff 100%)"
+          customBackground="linear-gradient(180deg,#08384d 0%, #0f5c7a 72%, #48cde8 100%)"
         >
           <div style={cardsGridStyle}>
             <div
